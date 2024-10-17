@@ -7,10 +7,15 @@ body {
 
 .introContainer { 
 background-image: url(pexels-pixabay-53594.jpg);
-height: 50rem;
+height: 60rem;
 align-content: center;
 }
 
 h1 {
     font-family:'Didot', Georgia, serif;
+}
+
+.introImage {
+    height: 80%;
+    width: 80%;
 }
