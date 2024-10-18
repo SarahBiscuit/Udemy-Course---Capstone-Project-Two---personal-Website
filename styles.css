@@ -11,7 +11,7 @@ body {
    margin: 0;
  }
 
-.introContainer { 
+.introContainer, contactContainer { 
 background-image: url(pexels-pixabay-53594.jpg);
 align-content: center;
 box-sizing: border-box;
