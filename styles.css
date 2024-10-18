@@ -49,3 +49,9 @@ h1, h2 {
 #aboutMe {
     font-family:'Didot', Georgia, serif;
 }
+
+.aboutMeList {
+    text-align: left;
+   font-size: 1.5rem;
+   font-weight: bold;
+}
