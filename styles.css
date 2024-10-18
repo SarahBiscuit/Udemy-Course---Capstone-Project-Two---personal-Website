@@ -7,7 +7,6 @@ body {
 
 .introContainer { 
 background-image: url(pexels-pixabay-53594.jpg);
-height: 60rem;
 align-content: center;
 }
 
@@ -16,6 +15,5 @@ h1 {
 }
 
 .introImage {
-    height: 80%;
-    width: 80%;
+    width: 90%;
 }
