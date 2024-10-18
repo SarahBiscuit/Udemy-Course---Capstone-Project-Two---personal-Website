@@ -60,3 +60,8 @@ h1, h2 {
     border-radius: 50%;
     height: 15rem;
 }
+
+footer {
+    font-weight: bold;
+    color: black;
+}
