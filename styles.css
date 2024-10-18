@@ -15,17 +15,14 @@ body {
 background-image: url(pexels-pixabay-53594.jpg);
 align-content: center;
 box-sizing: border-box;
-border: 2px solid red;
 }
 
-.experienceContainer {
-    background-image: url(pexels-geoffduke-611928.jpg);
+.aboutContainer {
     align-content: center;
     box-sizing: border-box;
-    border: 2px solid red;
 }
 
-.introContainer, .experienceContainer {
+.introContainer, .aboutContainer {
     margin: 0;
     padding: 0;
     background-size: cover;
@@ -47,4 +44,8 @@ h1 {
 
 h1, h2 {
     margin: 0;
+}
+
+#aboutMe {
+    font-family:'Didot', Georgia, serif;
 }
