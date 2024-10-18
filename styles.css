@@ -55,3 +55,8 @@ h1, h2 {
    font-size: 1.5rem;
    font-weight: bold;
 }
+
+#photoMe {
+    border-radius: 50%;
+    height: 15rem;
+}
